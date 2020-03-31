@@ -1,0 +1,9 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Basic Twitter Bot",
+  "main": "index.js",
+  "repository": "https://github.com/elishaking/twitter-bot.git",
+  "author": "King Elisha <ek.chibueze@gmail.com>",
+  "license": "MIT"
+}
